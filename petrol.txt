@@ -1,0 +1,9 @@
+capital
+city
+sun
+moon
+news
+north
+easwest
+south
+
